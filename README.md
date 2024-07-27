@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Fakhri
+- 👀 I’m interested in game
+- 🌱 I’m currently learning Html
